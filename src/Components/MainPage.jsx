@@ -42,7 +42,7 @@ const MainPage = () => {
 
     <>
     
-      <h1 className='refhead'>Healthhive</h1>
+      <h1 className='refhead'>Farmeet</h1>
 
 
       <div className='MainRenderDiv'>
